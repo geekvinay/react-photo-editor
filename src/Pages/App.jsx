@@ -1,7 +1,7 @@
 import { useState } from 'react'
-import CenterSec from './components/CenterSec'
-import Footer from './components/Footer'
-import Header from './components/Header'
+import CenterSec from '../components/CenterSec'
+import Footer from '../components/Footer'
+import Header from '../components/Header'
 
 function App () {
   const [img, setImg] = useState({
